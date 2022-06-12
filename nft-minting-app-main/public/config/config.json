@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE636099630E5003878445CCbE3FCA811e070CcbA",
+  "SCAN_LINK": "https://polygonscan.com/token/0xE636099630E5003878445CCbE3FCA811e070CcbA",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Lucky Doodle Bears",
+  "SYMBOL": "LuckyBears",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lucky-doodle-bears",
+  "SHOW_BACKGROUND": true
+}
